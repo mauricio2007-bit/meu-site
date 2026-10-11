@@ -1,18 +1,25 @@
-# meu-site
+# BoletimAI
 
-Site de projeto específico criado com Grok no GitHub Pages.
+Site do projeto **BoletimAI** — boletins informativos personalizados diários sobre política, tecnologia e ciência, com resumo e análise.
 
-## Como ativar o site
+## Como publicar o site (GitHub Pages)
 
 1. Vá em **Settings** do repositório
 2. Clique em **Pages** no menu lateral
 3. Em **Source**, selecione a branch **main** e a pasta **/ (root)**
 4. Clique em **Save**
-5. Aguarde alguns minutos e acesse: **https://mauricio2007-bit.github.io/meu-site**
+5. Aguarde alguns minutos e acesse:  
+   **https://mauricio2007-bit.github.io/meu-site**
 
-## Personalização
+## Conteúdo
 
-Edite o arquivo `index.html` para adicionar as informações do seu projeto.
+O site já está completo com as seções:
+- Hero
+- Sobre o projeto
+- Como funciona
+- Recursos
+- Exemplos de boletins
+- Contato
 
 ---
-Criado automaticamente com Grok.
+Criado com Grok no GitHub.
